@@ -8,6 +8,10 @@ div#container {
     max-width: 1200px;
 }
 
+div#containerinner {
+    margin: 10px;
+}
+
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(129, 206, 251);
