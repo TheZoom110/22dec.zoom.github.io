@@ -17,7 +17,7 @@ h1 {
 
 div#infobox {
     background: linear-gradient(to bottom, #bbb, #eee);
-    width: fit-content;
+    width: min-content;
     float: right;
     margin: 10px;
     padding: 10px;
