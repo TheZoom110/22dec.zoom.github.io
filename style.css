@@ -46,14 +46,14 @@ div#inforight {
 
 label {
     display: inline-block;
-    min-width: 40%;
+    width: 40%;
     color:#000;
     font-weight: bold;
 }
 
 p.info {
     display: inline-block;
-    min-width: 40%;
+    width: 60%;
     color:#444;
     font-weight: bold;
 }
