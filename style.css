@@ -4,7 +4,7 @@ body {
 }
 
 div#container {
-    margin: max(10px, auto);
+    margin: auto;
     max-width: 1200px;
 }
 
