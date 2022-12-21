@@ -35,7 +35,7 @@ h2#infoh2 {
 }
 
 div#infoleft {
-    float: left;
+    width: 400px;
 }
 
 div#inforight {
