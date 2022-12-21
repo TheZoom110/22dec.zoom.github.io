@@ -35,7 +35,6 @@ h2#infoh2 {
 }
 
 div#infoleft {
-    width: 300px;
     float: left;
 }
 
@@ -46,14 +45,14 @@ div#inforight {
 
 label {
     display: inline-block;
-    width: 40%;
+    min-width: 40%;
     color:#000;
     font-weight: bold;
 }
 
 p.info {
     display: inline-block;
-    width: 60%;
+    min-width: 40%;
     color:#444;
     font-weight: bold;
 }
