@@ -73,3 +73,27 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(153, 251, 129);
 }
+
+div#attrib {
+    margin: auto;
+    width: fit-content;
+    color: #fff;
+}
+
+a:link {
+    color: #ff0;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:visited {
+    color: #f80;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:hover, a:active {
+    color: cyan;
+    text-decoration: underline;
+    cursor: auto;
+}
