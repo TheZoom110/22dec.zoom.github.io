@@ -38,13 +38,17 @@ h2#infoh2 {
     box-shadow: 0 0 15px #245aac75;
 }
 
+div#inforight {
+    width: fit-content;
+    float: right;
+}
+
 div#infoleft {
     width: 400px;
 }
 
-div#inforight {
-    width: fit-content;
-    float: right;
+div.info {
+    overflow: visible;
 }
 
 label {
